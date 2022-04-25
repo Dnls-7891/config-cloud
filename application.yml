@@ -1,6 +1,2 @@
 spring:
-<<<<<<< HEAD
   config: true
-=======
-  config=true
->>>>>>> 506e511d092006849657c69eac256b69ca23b945
